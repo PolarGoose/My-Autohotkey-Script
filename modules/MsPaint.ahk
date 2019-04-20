@@ -1,0 +1,4 @@
+OpenMsPaint()
+{
+    Run mspaint.exe
+}

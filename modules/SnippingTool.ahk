@@ -1,0 +1,4 @@
+OpenSnippingTool()
+{
+    Run SnippingTool.exe
+}
